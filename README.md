@@ -1,3 +1,3 @@
 # github
 I'm making a website
-I deserve a :wine:
+I deserve a :beer:
